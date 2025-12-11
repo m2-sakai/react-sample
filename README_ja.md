@@ -1,5 +1,7 @@
 # React + TypeScript + Vite
 
+英語版: [README.md](README.md)
+
 このテンプレートは、ViteでReactをHMRといくつかのESLintルールとともに動作させるための最小セットアップを提供します。
 
 日本語版: このファイル (README_ja.md)
